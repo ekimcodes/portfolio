@@ -9,7 +9,7 @@ export function AboutReadme() {
             <div className="flex max-w-4xl flex-col gap-8">
                 <div className="animate-fade-in-up">
                     <span className="text-sm font-medium uppercase tracking-widest text-muted-foreground">
-                        Spring / Summer 2025
+                        Spring 2026
                     </span>
                     <h1 className="mt-4 text-5xl font-extrabold tracking-tighter sm:text-7xl md:text-8xl lg:text-9xl uppercase leading-[0.9]">
                         {about.firstName} <br /> {about.lastName}

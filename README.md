@@ -1,6 +1,6 @@
 # Edwin Kim - Portfolio
 
-This is a personal portfolio website built with **Next.js** and **Tailwind CSS**, designed to mimic the GitHub profile aesthetic.
+This is a personal portfolio website built with **Next.js** and **Tailwind CSS**, designed to mimic an e-commerce website.
 
 
 
